@@ -1,11 +1,19 @@
 # Sustainable Urban design
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+[![Open Collective](https://badgen.net/opencollective/backers/suds)](https://opencollective.com/suds)
+[![Youtube](https://img.shields.io/badge/dynamic/json?label=Youtube&color=brightgreen&query=items[0].statistics.subscriberCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dsnippet%252CcontentDetails%252Cstatistics%26id%3DUCrV_KSms3BNStyOFAvx4l1w%26key%3DAIzaSyB2IsPIY-XsnJBwgMaWIZMBROZ283LA29g)](https://www.youtube.com/channel/UCrV_KSms3BNStyOFAvx4l1w)
+[![License](https://img.shields.io/badge/license-GNU-brightgreen)](/LICENSE)
+[![Riot](https://img.shields.io/badge/Chat-Join%20our%20discussion%20on%20Matrix-brightgreen)](https://riot.im/app/#/room/#sud:matrix.org)
+[![Twitter](https://badgen.net/twitter/follow/SustUrbanDesign)](https://twitter.com/SustUrbanDesign)
+
 ## Table of Contents
 
-* [Installation](#Installation)
-* [Support](#Support)
+* [Installation](#installation)
+* [Support](#support)
+* [Social Media Links](#links)
 * [License](#license)
 
 ## What is this?
@@ -48,7 +56,7 @@ pip install -r requirements.txt
 #### Move into the Project Folder:
 
 ```
-cd sustainable_urban_design_space
+cd platform
 ```
 ## Running the server
 
@@ -64,7 +72,7 @@ Before you can run the project, you will need to set up the database by running 
 ### Create super user
 Move into the Project Folder:
 ```
-cd sustainable_urban_design_space
+cd platform
 ```
 
 Create a new super user account:
@@ -97,7 +105,11 @@ You can connect to the admin interface at http://127.0.0.1:8000/admin with your 
 
 ## Resources
 
-
+## Links
+[Twitter](https://twitter.com/SustUrbanDesign)
+[YouTube](https://www.youtube.com/channel/UCrV_KSms3BNStyOFAvx4l1w)
+[OpenCollective](https://opencollective.com/suds)
+[Riot/Matrix](https://riot.im/app/#/room/#sud:matrix.org)
 
 ## Contributors ✨
 
@@ -113,6 +125,7 @@ Thanks goes to these awesome people ([emoji key](https://allcontributors.org/doc
     <td align="center"><a href="https://bryliechristopheroxley.info"><img src="https://avatars1.githubusercontent.com/u/17307?v=4" width="100px;" alt=""/><br /><sub><b>Brylie Christopher Oxley</b></sub></a><br /><a href="https://github.com/SustainableUrbanDesign/app/commits?author=brylie" title="Code">💻</a> <a href="#projectManagement-brylie" title="Project Management">📆</a> <a href="https://github.com/SustainableUrbanDesign/app/issues?q=author%3Abrylie" title="Bug reports">🐛</a> <a href="https://github.com/SustainableUrbanDesign/app/commits?author=brylie" title="Documentation">📖</a> <a href="#ideas-brylie" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/SustainableUrbanDesign/app/pulls?q=is%3Apr+reviewed-by%3Abrylie" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/pgrimaud"><img src="https://avatars1.githubusercontent.com/u/1866496?v=4" width="100px;" alt=""/><br /><sub><b>Pierre Grimaud</b></sub></a><br /><a href="https://github.com/SustainableUrbanDesign/app/commits?author=pgrimaud" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/jfinmaniv"><img src="https://avatars2.githubusercontent.com/u/15154823?v=4" width="100px;" alt=""/><br /><sub><b>John Inman</b></sub></a><br /><a href="https://github.com/SustainableUrbanDesign/app/commits?author=jfinmaniv" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/rmk118"><img src="https://avatars1.githubusercontent.com/u/67233373?v=4" width="100px;" alt=""/><br /><sub><b>rmk118</b></sub></a><br /><a href="https://github.com/SustainableUrbanDesign/app/commits?author=rmk118" title="Documentation">📖</a></td>
   </tr>
 </table>
 
